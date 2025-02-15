@@ -1,2 +1,2 @@
 # konstructivno-laba1
-//Это моя лаба, ураааа!
+cout << "Hello World";
